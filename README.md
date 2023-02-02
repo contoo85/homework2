@@ -1,2 +1,1 @@
-# homework2
-tarea modulo 2
+Tarea de Maria constanza
